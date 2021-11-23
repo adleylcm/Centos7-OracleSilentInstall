@@ -1,0 +1,2 @@
+# Centos7-OracleSilentInstall
+在CentOS7系统，静默安装Oracle11g的安装脚本
