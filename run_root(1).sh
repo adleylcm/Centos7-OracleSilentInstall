@@ -75,7 +75,7 @@ sed -i 's/=enforcing/=disabled/g' /etc/selinux/config
 #修改以下文件名为实际的安装包名,进入oracle目录后执行第二个脚本
 mv /home/linux.x64_11gR2_database_1of2.zip /home/oracle
 mv /home/linux.x64_11gR2_database_2of2.zip /home/oracle
-mv run_oracle.sh /home/oracle
+mv run_oracle(2).sh /home/oracle
 cd /home/oracle
 
 
